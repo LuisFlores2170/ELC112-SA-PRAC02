@@ -1,0 +1,21 @@
+E:\2 - 2021\Gráfica\Casa\Casa\bin\Debug\Casa.exe
+E:\2 - 2021\Gráfica\Casa\Casa\bin\Debug\Casa.pdb
+E:\2 - 2021\Gráfica\Casa\Casa\bin\Debug\OpenTK.dll
+E:\2 - 2021\Gráfica\Casa\Casa\bin\Debug\OpenTK.pdb
+E:\2 - 2021\Gráfica\Casa\Casa\bin\Debug\OpenTK.xml
+E:\2 - 2021\Gráfica\Casa\Casa\obj\Debug\Casa.csproj.AssemblyReference.cache
+E:\2 - 2021\Gráfica\Casa\Casa\obj\Debug\Casa.csproj.CoreCompileInputs.cache
+E:\2 - 2021\Gráfica\Casa\Casa\obj\Debug\Casa.exe
+E:\2 - 2021\Gráfica\Casa\Casa\obj\Debug\Casa.pdb
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\bin\Debug\Casa.exe.config
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\bin\Debug\Casa.exe
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\bin\Debug\Casa.pdb
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\bin\Debug\OpenTK.dll
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\bin\Debug\OpenTK.pdb
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\bin\Debug\OpenTK.xml
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\obj\Debug\Casa.csproj.AssemblyReference.cache
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\obj\Debug\Casa.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\obj\Debug\Casa.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\obj\Debug\Casa.csproj.CopyComplete
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\obj\Debug\Casa.exe
+C:\Users\luis\Downloads\Esquema_b-sico_OpenGL-main\Casa\obj\Debug\Casa.pdb
